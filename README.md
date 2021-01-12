@@ -14,6 +14,7 @@ In this project we have used Express REST API.
 
 ##### Run migration for database tables
 - Go to project level root directory and run `` npm install ``
+- If there is a data.csv file present in uploads directory then delete it and upload a new data.csv file to check the POST API.
 
 ##### Set environment variable
 - No need to set custom environment variable, if you want to set any environment variable just add it to `.env` file.
